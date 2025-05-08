@@ -1,0 +1,15 @@
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.AssemblyInfoInputs.cache
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.AssemblyInfo.cs
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.sourcelink.json
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\bin\Debug\net8.0\pokus regulerni vyrazy.exe
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\bin\Debug\net8.0\pokus regulerni vyrazy.deps.json
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\bin\Debug\net8.0\pokus regulerni vyrazy.runtimeconfig.json
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\bin\Debug\net8.0\pokus regulerni vyrazy.dll
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\bin\Debug\net8.0\pokus regulerni vyrazy.pdb
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.dll
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\refint\pokus regulerni vyrazy.dll
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.pdb
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\pokus regulerni vyrazy.genruntimeconfig.cache
+C:\Users\Jakub\source\repos\pokus regulerni vyrazy\pokus regulerni vyrazy\obj\Debug\net8.0\ref\pokus regulerni vyrazy.dll

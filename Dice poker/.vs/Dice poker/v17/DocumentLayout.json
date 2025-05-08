@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|c:\\users\\jakub\\source\\repos\\dice poker\\dice poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|solutionrelative:dice poker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|c:\\users\\jakub\\source\\repos\\dice poker\\dice poker\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|solutionrelative:dice poker\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|c:\\users\\jakub\\source\\repos\\dice poker\\dice poker\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|solutionrelative:dice poker\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|c:\\users\\jakub\\source\\repos\\dice poker\\dice poker\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FBF2EE-9536-41DA-BF89-C3BBD139AFC8}|Dice poker\\Dice poker.csproj|solutionrelative:dice poker\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Game.cs",
+              "RelativeDocumentMoniker": "Dice poker\\Game.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Game.cs",
+              "RelativeToolTip": "Dice poker\\Game.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:45:13.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Dice.cs",
+              "RelativeDocumentMoniker": "Dice poker\\Dice.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Dice.cs",
+              "RelativeToolTip": "Dice poker\\Dice.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:45:36.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Round.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Round.cs",
+              "RelativeDocumentMoniker": "Dice poker\\Round.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Round.cs",
+              "RelativeToolTip": "Dice poker\\Round.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:45:24.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Program.cs",
+              "RelativeDocumentMoniker": "Dice poker\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\Dice poker\\Dice poker\\Program.cs",
+              "RelativeToolTip": "Dice poker\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:44:56.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

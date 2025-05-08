@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|c:\\users\\jakub\\source\\repos\\battleroyale\\battleroyale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|solutionrelative:battleroyale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|c:\\users\\jakub\\source\\repos\\battleroyale\\battleroyale\\sorcerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|solutionrelative:battleroyale\\sorcerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|c:\\users\\jakub\\source\\repos\\battleroyale\\battleroyale\\combatants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|solutionrelative:battleroyale\\combatants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|c:\\users\\jakub\\source\\repos\\battleroyale\\battleroyale\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|solutionrelative:battleroyale\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|c:\\users\\jakub\\source\\repos\\battleroyale\\battleroyale\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|solutionrelative:battleroyale\\fighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|c:\\users\\jakub\\source\\repos\\battleroyale\\battleroyale\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60B1DE40-1E7E-4706-B655-510F840C5F50}|BattleRoyale\\BattleRoyale.csproj|solutionrelative:battleroyale\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Combatants.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Combatants.cs",
+              "RelativeDocumentMoniker": "BattleRoyale\\Combatants.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Combatants.cs",
+              "RelativeToolTip": "BattleRoyale\\Combatants.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:52:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sorcerer.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Sorcerer.cs",
+              "RelativeDocumentMoniker": "BattleRoyale\\Sorcerer.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Sorcerer.cs",
+              "RelativeToolTip": "BattleRoyale\\Sorcerer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:46:23.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Program.cs",
+              "RelativeDocumentMoniker": "BattleRoyale\\Program.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Program.cs",
+              "RelativeToolTip": "BattleRoyale\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:46:21.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Knight.cs",
+              "RelativeDocumentMoniker": "BattleRoyale\\Knight.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Knight.cs",
+              "RelativeToolTip": "BattleRoyale\\Knight.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwDoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:46:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fighter.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Fighter.cs",
+              "RelativeDocumentMoniker": "BattleRoyale\\Fighter.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Fighter.cs",
+              "RelativeToolTip": "BattleRoyale\\Fighter.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA4wC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:46:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Enemy.cs",
+              "RelativeDocumentMoniker": "BattleRoyale\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Jakub\\source\\repos\\BattleRoyale\\BattleRoyale\\Enemy.cs",
+              "RelativeToolTip": "BattleRoyale\\Enemy.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA2wC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:46:14.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
