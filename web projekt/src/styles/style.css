@@ -227,9 +227,7 @@ main{
   display: flex;
   
 }
-.filter p{
-  
-}
+
 .Image--main{
   width: 200px;
   height: 100%;
@@ -296,7 +294,7 @@ main{
 .article h3{
   background-color: var(--lightdark);
   border-radius: 10px;
-  margin: 0;
+  
   padding: 10px;
   
 }
@@ -305,4 +303,29 @@ main{
   border-radius: 10px;
   margin: 0;
   padding: 10px;
+}
+.Game__info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  gap: 10px;
+}
+.review{
+  display: flex;
+  flex-direction: column;
+  background-color: var(--dark);
+  padding: 10px;
+  gap: 10px;
+  border-radius: 10px;
+}
+.review *{
+  background-color: var(--lightdark);
+  border-radius: 10px;
+}
+.reviews{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
