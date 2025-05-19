@@ -1,0 +1,38 @@
+html {
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: normal;
+    font-size: 12pt;
+}
+
+.page__heading {
+    font-size: 2.5rem;
+    margin: .5rem 0;
+    line-height: 1.1;
+    font-weight: normal;
+}
+
+.thumbnails__item {
+    margin: 0; 
+    display: block;
+}
+
+.thumbnails__item > a {
+    display: block;
+    height: 100%;
+    position: relative;
+}
+
+.thumbnails__image {
+    display: block;
+}
+
+.thumbnails__item div {
+    position: absolute;
+    top: 0;
+    color: white;
+    background-color: rgba(0,0,0,.5);
+    padding: .25em;
+    left: 0;
+    right: 0;
+    visibility: hidden;
+}
