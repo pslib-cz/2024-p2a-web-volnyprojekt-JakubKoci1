@@ -7,4 +7,4 @@
 ## Odkazy
 Figma designový soubor ==>[Figma](https://www.figma.com/design/C3bZqNDEsCN8jtgkQig8Pi/Ko%C4%8D%C3%ADJakub?node-id=92-503&t=QEfpfhovzLtlF6hZ-1)
 
-Naše github stránky ==>[Github-pages](https://scaling-adventure-gg6ozpg.pages.github.io/)
+Naše github stránky ==>[Github-pages](https://pslib-cz.github.io/2024-p2a-web-volnyprojekt-JakubKoci1/)
