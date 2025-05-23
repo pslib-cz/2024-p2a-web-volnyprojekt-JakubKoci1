@@ -8,12 +8,20 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+@font-face {
+  font-family: Header;
+  src: url(/src/fonts/RobotoMono-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family: Paragraph;
+  src: url(/src/fonts/CourierPrime-Regular.ttf);
+}
 a {
     font-weight: 500;
     color: var(--color-primary);
     text-decoration: inherit;
     font-size: 14px;
+    font-family: Paragraph;
 }
 a:hover {
 color: var(--color-mod);
@@ -21,20 +29,26 @@ color: var(--color-mod);
 h1 {
     font-size: 3.2em;
     line-height: 1.1;
+    font-family: Header;
 }
 h2{
   font-size: 24px;
   margin: 0;
+  font-family: Header;
 }
 h3{
   font-size: 20px;
   margin: 0;
+  font-family: Header;
 }
 h4{
   font-size: 18px;
   margin: 0;
+  font-family: Header;
 }
 p{
   font-size: 14px;
   margin: 0;
+  font-weight: 100;
+  font-family: Paragraph;
 }
